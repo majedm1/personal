@@ -1,6 +1,7 @@
 Hello!
 ## 🛠️ Technologies & Expertise
 Cloud, DevOps, DevSecOps Engineer
+
 ☁️ AWS, Azure & Cloud Architecture
 🐧 Linux Administration & System Engineering
 🐳 Docker, Kubernetes & Containerization
