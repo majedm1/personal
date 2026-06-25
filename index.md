@@ -1,5 +1,4 @@
 Hello!
-## 🛠️ Technologies & Expertise
 Cloud, DevOps, DevSecOps Engineer
 
 ## 🛠️ Technologies & Expertise
