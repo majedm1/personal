@@ -23,4 +23,4 @@ Cloud, DevOps, DevSecOps Engineer
 - 🛠️ Bash, Python & Automation Scripting
 - 📈 Site Reliability Engineering (SRE) & Production Operations
 - 🤖 AI Infrastructure, LLMs & Retrieval-Augmented Generation (RAG)
-[LinkedIn](https://linkedin.com/in/majed-mirzaie)
+- [LinkedIn](https://linkedin.com/in/majed-mirzaie)
