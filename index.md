@@ -24,3 +24,10 @@ Cloud, DevOps, DevSecOps Engineer
 - 📈 Site Reliability Engineering (SRE) & Production Operations
 - 🤖 AI Infrastructure, LLMs & Retrieval-Augmented Generation (RAG)
 - [LinkedIn](https://linkedin.com/in/majed-mirzaie)
+
+
+`AWS` `Azure` `Linux` `Docker` `Kubernetes` `OpenShift`
+`PostgreSQL` `MySQL` `NoSQL` `Graph DB` `Vector DB`
+`Terraform` `Ansible` `Nginx` `HAProxy`
+`Proxmox` `Odoo` `Python` `Bash`
+`CI/CD` `SRE` `Monitoring` `Cloud Security` `AI Infrastructure`
