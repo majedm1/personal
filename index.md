@@ -1,8 +1,25 @@
 Hello!
+## 🛠️ Technologies & Expertise
 Cloud, DevOps, DevSecOps Engineer
-- ☁️ AWS & Azure
-- 🐧 Linux Administration
-- 🐳 Docker & Kubernetes
-- 🗄️ PostgreSQL & NoSQL
+☁️ AWS, Azure & Cloud Architecture
+🐧 Linux Administration & System Engineering
+🐳 Docker, Kubernetes & Containerization
+🗄️ PostgreSQL, MySQL & NoSQL Databases
+🚀 RedHat OpenShift & Enterprise Kubernetes Platforms
+🕸️ Graph Databases (Neo4j, ArangoDB)
+🧠 Vector Databases & AI Infrastructure
+🔄 CI/CD Pipelines & DevOps Automation
+📦 Infrastructure as Code (Terraform, Ansible)
+🔧 Nginx, HAProxy & Reverse Proxy Solutions
+🔐 Cloud Security, IAM & Secrets Management
+📊 Monitoring, Logging & Observability
+🌐 Networking, DNS & Load Balancing
+🐘 Odoo Infrastructure & High Availability Architecture
+🐧 Proxmox Virtualization & Private Cloud Platforms
+💾 Backup, Disaster Recovery & Business Continuity
+⚡ Performance Tuning & Capacity Planning
+🛠️ Bash, Python & Automation Scripting
+📈 Site Reliability Engineering (SRE) & Production Operations
+🤖 AI Infrastructure, LLMs & Retrieval-Augmented Generation (RAG)
 
 [LinkedIn](https://linkedin.com/in/majed-mirzaie)
