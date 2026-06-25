@@ -5,7 +5,7 @@ Cloud, DevOps, DevSecOps Engineer
 🐧 Linux Administration & System Engineering
 🐳 Docker, Kubernetes & Containerization
 🗄️ PostgreSQL, MySQL & NoSQL Databases
-🚀 RedHat OpenShift & Enterprise Kubernetes Platforms
+🚀 Red Hat OpenShift & Enterprise Kubernetes Platforms
 🕸️ Graph Databases (Neo4j, ArangoDB)
 🧠 Vector Databases & AI Infrastructure
 🔄 CI/CD Pipelines & DevOps Automation
